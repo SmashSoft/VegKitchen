@@ -1,0 +1,5 @@
+﻿@model CategoryListViewModel
+<div class="container-fluid content-row">
+
+    @Html.DropDownListFor(f => f.SelectedCategoryId, Model.Categories, "Select one", new { @class = "form-control" })
+</div>

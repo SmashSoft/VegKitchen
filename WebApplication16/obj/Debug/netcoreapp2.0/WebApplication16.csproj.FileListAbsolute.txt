@@ -1,0 +1,11 @@
+c:\users\manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.deps.json
+c:\users\manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.runtimeconfig.json
+c:\users\manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.runtimeconfig.dev.json
+c:\users\manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.dll
+c:\users\manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\WebApplication16.pdb
+c:\users\manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.csprojResolveAssemblyReference.cache
+c:\users\manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.csproj.CoreCompileInputs.cache
+c:\users\manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.AssemblyInfoInputs.cache
+c:\users\manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.AssemblyInfo.cs
+c:\users\manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.dll
+c:\users\manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\WebApplication16.pdb

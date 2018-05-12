@@ -1,0 +1,15 @@
+﻿
+<div>
+    <h2> All Recipes</h2>
+</div>
+
+<h2> Category:@Model.RecipeCategory</h2>
+<div class="container-fluid content-row">
+    @foreach (Recipe Recipe in Model.Recipes)
+    {
+
+        @Html.Partial("RecipeSummary", Recipe);
+
+    }
+</div>
+

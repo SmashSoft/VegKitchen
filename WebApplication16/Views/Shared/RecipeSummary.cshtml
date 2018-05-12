@@ -1,0 +1,11 @@
+﻿@model Recipe
+<div class="col-md-6">
+    <div class="card h-100">
+        <h4 class="card-title">@Model.Name</h4>
+        <img class="card-img-top img img-fluid" src="@Model.ImageUrl" alt="Card image">
+        <p class="card-text">@Model.ShortDescription</p>
+        @*<div class="card-footer">@Model.Category.Name</div>*@
+        <a href="#" class="btn btn-primary">See details</a>
+    </div>
+</div>
+

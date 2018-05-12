@@ -1,0 +1,16 @@
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\TR.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\TR.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\TR.WebApp.AssemblyInfoInputs.cache
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\TR.WebApp.AssemblyInfo.cs
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\TR.WebApp.deps.json
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\TR.WebApp.runtimeconfig.json
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\TR.WebApp.runtimeconfig.dev.json
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\TR.WebApp.dll
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\TR.WebApp.pdb
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\TR.ModelEntities.dll
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\TR.Repository.dll
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\TR.ModelEntities.pdb
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\bin\Debug\netcoreapp2.0\TR.Repository.pdb
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\TR.WebApp.dll
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\TR.WebApp.pdb
+C:\Users\Manoj\documents\visual studio 2017\Projects\WebApplication16\WebApplication16\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
